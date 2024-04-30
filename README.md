@@ -2,5 +2,5 @@
 
 계산기
 
-Emulator SDK 34
+에뮬레이터 SDK 34
 
